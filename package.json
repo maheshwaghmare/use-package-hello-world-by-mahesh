@@ -1,0 +1,14 @@
+{
+  "name": "use-package-hello-world-by-mahesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahesh Waghmare",
+  "license": "MIT",
+  "dependencies": {
+    "hello-world-by-mahesh": "^1.0.1"
+  }
+}
